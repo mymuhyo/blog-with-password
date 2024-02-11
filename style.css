@@ -1,5 +1,10 @@
 /* style.css */
-body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px; background: #f0f2f5; }
+
+body {
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+    background: #f0f2f5;
+}
 
 .hidden { display: none; }
 
